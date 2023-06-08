@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "authenticus": "https://deno.land/x/authenticus@v1.0.0/mod.ts",
+    "cheetah": "https://deno.land/x/cheetah@v0.10.0/mod.ts",
+    "zod": "https://deno.land/x/cheetah@v0.10.0/validator/zod.ts"
+  }
+}
